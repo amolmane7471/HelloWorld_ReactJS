@@ -3,6 +3,13 @@ h1{
   font-size: xx-large;
   color:rgb(224, 64, 64);
 }
+
+
+img{
+  display: block;
+  margin: 0 auto;
+  width: 25%;
+}
 /* .App {
   text-align: center;
 }
