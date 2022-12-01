@@ -1,13 +1,14 @@
 h1{
   text-align: center;
   font-size: xx-large;
-  color:rgb(224, 64, 64);
+  color:grey;
 }
 
 img{
   display: block;
   margin: 0 auto;
-  width: 25%;
+  width: 27%;
+  margin-bottom: 5px;
 }
 
 .error-output{
@@ -15,4 +16,26 @@ img{
   font-size: 12px;
   font-style: italic;
   color: red;
+}
+
+.center{
+  text-align: center;
+}
+
+html {
+  background-color: blue;
+}
+
+body {
+  width: 650px;
+  margin: 0 auto;
+  background-color: rgb(225, 137, 5);
+  padding: 0 20px 20px 20px;
+  border: 5px solid;
+}
+p,li {
+  font-size: 18px;
+  font-family: 'Times New Roman', Times, serif;
+   line-height: 25px;
+  letter-spacing: 0.75px; 
 }
